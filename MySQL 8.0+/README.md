@@ -24,7 +24,7 @@ WHERE
 		(SELECT polygon FROM area_city_geo WHERE ext_path = '安徽省 六安市')
 	);
 	
--- 查看广东省的所有市、区
+-- 查看安徽省的所有市、区
 SELECT
 	id,
 	ext_path,
