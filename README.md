@@ -2,7 +2,7 @@
 
 # 这个仓库存放经纬度转地址的SQL文件
 
-### 提供一下版本的SQL文件
+### 提供以下版本的SQL文件
 + MySQL(5.6/8.0)
 + PostgreSQL
 + SQLServer
