@@ -13,6 +13,7 @@
 + 2.city        只包含市数据
 + 3.county      只包含区县数据
 
-### 所有SQL文件格式均为压缩包, 为了规避GitHub上传文件25M的限制
+#### 所有SQL文件格式均为压缩包, 为了规避GitHub上传文件25M的限制
 
-### 有问题咨询QQ:783244553
++ 项目数据来自 [AreaCity](https://xiangyuecn.gitee.io/areacity-jsspider-statsgov/)
++ 有问题咨询QQ:783244553
