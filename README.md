@@ -15,5 +15,5 @@
 
 #### 所有SQL文件格式均为压缩包, 为了规避GitHub上传文件25M的限制
 
-+ 项目数据来自 [AreaCity](https://xiangyuecn.gitee.io/areacity-jsspider-statsgov/)
++ 项目数据来自 [AreaCity](https://xiangyuecn.gitee.io/areacity-jsspider-statsgov/) (收费)
 + 有问题咨询QQ:783244553
